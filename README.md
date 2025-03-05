@@ -8,7 +8,8 @@ pytorch_model-00004-of-00007.bin
 pytorch_model-00005-of-00007.bin  
 pytorch_model-00006-of-00007.bin  
 pytorch_model-00007-of-00007.bin并移至model文件夹中
-3.确保有3.10及以上的python支持运行(后续的更新会加入整合包)
+3.在web_demo.py和web_demo1.py中填入对应的提示词(由于相关研究保密要求已将相关提示词删除，用——————替代，请自行填写)
+4.确保有3.10及以上的python支持运行(后续的更新会加入整合包)
 食用方法：
 运行run，选择适合自己设备的模式，
 通过关键词的选择可以选择思考模式和问答模式
